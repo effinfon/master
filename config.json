@@ -1,0 +1,17 @@
+{
+	"web-farm_to_fork": {
+		"port": "3000"
+	},
+	"server-farm_to_fork": {
+		"port": "3003"
+	},
+	"web-rsbi": {
+		"port": "3004"
+	},
+	"server-rsbi": {
+		"port": "3007"
+	},
+	"master": {
+		"port": "5000"
+	}
+}

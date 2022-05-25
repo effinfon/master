@@ -1,0 +1,15 @@
+[submodule "server-repositories"]
+	path = server-repositories
+	url = https://github.com/effinfon/server-repositories.git
+[submodule "web-farm_to_fork"]
+	path = web-farm_to_fork
+	url = https://github.com/effinfon/web-farm_to_fork.git
+[submodule "server-rsbi"]
+	path = server-rsbi
+	url = https://github.com/effinfon/server-rsbi.git
+[submodule "web-rsbi"]
+	path = web-rsbi
+	url = https://github.com/effinfon/web-rsbi.git
+[submodule "server-farm_to_fork"]
+	path = server-farm_to_fork
+	url = https://github.com/effinfon/server-farm_to_fork.git
